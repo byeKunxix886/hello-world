@@ -9,6 +9,8 @@ for first in range(1,5):
                 print(first,second,third)
                 time += 1
 
+# 先找出所有排列組合先，最後在去掉不符的即可
+
 print("總共有%d個" %(time))
 
 
